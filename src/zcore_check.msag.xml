@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCORE_CHECK</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message from check of BW objects</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>The block (&amp;1) cannot be found in the repository</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Error creating the check object for TLOGO(&amp;1) OBJNM(&amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Section (&amp;1) is unknown from the guidelines</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>For Section (&amp;1) Layer (&amp;2) is not allowed -&gt; allowed are (&amp;3)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Object type (&amp;1) must be (&amp;3) the value (&amp;2) is not accepted</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Name check failed for object &amp;1(&amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Block (&amp;2) of Object (&amp;1) does not match (&amp;4) that of the InfoArea (&amp;3)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Internal technical error processing &amp;2(&amp;1) - &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Inactive DTP&apos;s where found moving data to or from &amp;1 (DTP: &amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>The object &amp;1(&amp;2) is not active (&apos;A&apos; &lt;&gt; &apos;M&apos;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>The object &amp;1(&amp;2) is locked in another transport (&amp;3) and has not been mo</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>The object &amp;1(&amp;2) cannot be found in E071 eg. transport request/task</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Object &amp;1(&amp;2) have setting &quot;never create SID&quot; this only makes sense in CM</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Object &amp;1(&amp;2) SID generartion &quot;During reporting&quot; not inteded for layer &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>&amp;1 Section (&amp;2) for object (&amp;3) is unknown - name is incorrect</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Name of InfoArea/Application/Display component (&amp;1) is invalid</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Block (&amp;3) Object &amp;1(&amp;2) does not match parent object (&amp;4)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Section (&amp;3) for object &amp;1(&amp;2) does not match parent object (&amp;4)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Process type for InfoObject &amp;2 is not listed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Object &amp;1(&amp;2) must be placed in section (&amp;4) not (&amp;3)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Inactive TRFNøs where found for DTP &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>DTP(&amp;1) cannot load between layer (&amp;2) and (&amp;3) not allowed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Inactive DTP&apos;s where found in/out of &amp;1(&amp;2)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>&apos;&amp;1&apos; for &amp;2(&amp;3) gave Errors/Warning</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Multiple blocks are transport in the same transport request (&amp;1)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Transport Id (&amp;1) &gt; Performing &gt;&gt; Custom check of compliance &lt;&lt;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Object &amp;1(&amp;2) have been deleted - No checks carried out</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>The value of (&amp;1) of the object &amp;3(&amp;4) is not listed in &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>Naming convention for InfoObject is not really followed (&amp;1)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>Object &amp;1(&amp;2) belongs to block &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>The Block (&amp;1) is invalid, hence section cannot be derived object &amp;2(&amp;3)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>No check class provide for TLOGO(&amp;2) object &amp;1(&amp;2) is not checked</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>071</MSGNR>
+     <TEXT>InfoArea &amp;1 must be in the root -this has the parent &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>072</MSGNR>
+     <TEXT>InfoArea &amp;1 is a Section and must be placed on the InfoArea &amp;2 not &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>073</MSGNR>
+     <TEXT>The parent InfoArea &amp;1 (&amp;2) have different clusters &amp;3 - &amp;4 respectively</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCORE_CHECK</ARBGB>
+     <MSGNR>074</MSGNR>
+     <TEXT>Next InfoObject must be named &amp;1, you used &amp;2</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
